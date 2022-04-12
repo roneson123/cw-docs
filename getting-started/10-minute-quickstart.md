@@ -6,11 +6,11 @@ description: >-
 
 # 10-Minute Quickstart
 
-{% embed url="https://youtu.be/Cd171XS0IGI" caption="Quickstart video tutorial" %}
+{% embed url="https://youtu.be/Cd171XS0IGI" %}
 
 ## Quick-start Steps
 
-1. Visit https://www.cloudwaitress.com and sign up for an account
+1. Visit https://www.o-in.com and sign up for an account
 2. Once you are at the admin dashboard, press "Create New Restaurant"
 3. Fill out your restaurant details and create the restaurant
 4. Click on your new restaurant to see the restaurant dashboard
@@ -24,4 +24,3 @@ description: >-
 ## What's Next
 
 At this point, you can customise the system as you please and start accepting orders. We recommend you continue reading the articles in this section. You will learn how to configure the system to your requirements and manage orders in-depth.
-
