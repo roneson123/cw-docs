@@ -17,7 +17,7 @@ Initially, your customers will not be aware of your new online ordering system. 
 
 * Handing out cards or flyers when customers make in-store purchases
 * Putting up a board or sign on your store window
-* Inform customers who call in that they can now order online. 
+* Inform customers who call in that they can now order online.
 * Add a link from your website to your ordering page
 * Posting the ordering link on your social media channels
 * Add the ordering link to your in-store receipts
@@ -38,15 +38,15 @@ SEO which stands for search engine optimization is the process of making your si
 
 ### Setup A Custom Domain Name
 
-By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
+By default, your online store can be found on a sub-domain of "o-in.co. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
 
 While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
 
-Once you have purchased your own domain name, visit "Settings &gt; Website &gt; Domains &gt; Custom Domain" in your restaurant dashboard to configure it.
+Once you have purchased your own domain name, visit "Settings > Website > Domains > Custom Domain" in your restaurant dashboard to configure it.
 
 ### Basic SEO Settings
 
-Under the "Settings &gt; Website &gt; SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
+Under the "Settings > Website > SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
 
 Say you own an Indian restaurant called the Red Turban in a suburb called Townsville in New York. Your title should be "Red Turban - Authentic Indian Townsville New York.
 
@@ -63,4 +63,3 @@ We have created a few helpful guides for restaurant marketing on our blog. We su
 * [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
 * [Online Marketing - Facebook](https://www.cloudwaitress.com/blog/online-restaurant-marketing-facebook-advertising)
 * [Creative Marketing Ideas For Restaurants](https://www.cloudwaitress.com/blog/creative-marketing-ideas-restaurants)
-
