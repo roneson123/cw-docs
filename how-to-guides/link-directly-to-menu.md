@@ -9,7 +9,7 @@ description: Lean how to use menu_id to create a direct link to a specific menu.
 Creating a direct link to your menu is a fairly straight forward process. The below example links to a specific menu within the demo store.
 
 ```
-https://systemsite.octopusdelivery.com/?menu_id=awOli_w3E
+https://demoforoder.o-in.co/?menu_id=awOli_w3E
 ```
 
 Replace the above url with your restaurant url;
