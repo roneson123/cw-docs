@@ -6,11 +6,10 @@ description: >-
 
 # Special Features
 
-{% page-ref page="public-holiday-surcharge.md" %}
+{% content-ref url="make-service-pop-up-required.md" %}
+[make-service-pop-up-required.md](make-service-pop-up-required.md)
+{% endcontent-ref %}
 
-{% page-ref page="make-service-pop-up-required.md" %}
-
-{% page-ref page="covid-19-discount-for-united-kingdom.md" %}
-
-
-
+{% content-ref url="covid-19-discount-for-united-kingdom.md" %}
+[covid-19-discount-for-united-kingdom.md](covid-19-discount-for-united-kingdom.md)
+{% endcontent-ref %}

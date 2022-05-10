@@ -125,7 +125,10 @@ Tags allow you to highly particular attributes about a dish with a fully customi
 
 ### **No menu or categories showing under the store**
 
-For your menu to display in your online store, make sure to add at least one category and one dish to it.
+For your menu to display in your online store, make sure to add at least one category and one dish to it.\
+\
+Native Aspect Ratio of Products Image \
+<img src="../.gitbook/assets/Screenshot 2022-04-25 at 2.57.17 PM.png" alt="" data-size="original">
 
 ### **Dish images to large**
 
