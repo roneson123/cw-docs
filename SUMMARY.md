@@ -13,7 +13,7 @@
   * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Setup Printing For Android](how-to-guides/setup-printing-for-android.md)
   * [Printing - Windows Network Printing](how-to-guides/printing-windows-network-printing.md)
-  * [Printing - Windows Shared Printing](how-to-guides/printing-windows-shared-printing.md)
+  * [Printing - Windows Shared Printing (USB)](how-to-guides/printing-windows-shared-printing.md)
   * [Printing - API Key](how-to-guides/printing-api-key.md)
   * [Printing - Add a printer to Windows](how-to-guides/printing-add-a-printer-to-windows.md)
   * [Setup Split Printing](how-to-guides/setup-split-printing.md)
