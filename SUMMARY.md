@@ -28,7 +28,6 @@
   * [Link Directly to menu](how-to-guides/link-directly-to-menu.md)
   * [Setup an iOS & Android App](how-to-guides/setup-an-ios-and-android-app.md)
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
-  * [Adding Closed Hours](how-to-guides/adding-closed-hours.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Special Features](platform-information/special-features/README.md)

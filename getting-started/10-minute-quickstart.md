@@ -10,9 +10,9 @@ description: >-
 
 ## Quick-start Steps
 
-1. Visit [https://www.o-in.com](https://o-in.co) and sign up for an account
+1. Visit [https://www.o-in.com](https://o-in.co/) and sign up for an account
 2. Choose your plan, and sign up the form
-3. Once you finish, go to [admin.o-in.co](https://admin.o-in.co) and sign up an restaurant
+3. Once you finish, go to [admin.o-in.co](https://admin.o-in.co/) and sign up an restaurant
 4. Once you are at the admin dashboard, press "Create New Restaurant"
 5. Fill out your restaurant details and create the restaurant
 6. Click on your new restaurant to see the restaurant dashboard
