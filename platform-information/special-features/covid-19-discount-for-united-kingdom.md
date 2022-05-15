@@ -13,13 +13,11 @@ Below shows an example of the COVID-19 discount applied to the checkout.
 
 ![Example of COVID-19 Discount working](../../.gitbook/assets/covid19-discount-image.png)
 
-
-
 ## Set-up Process
 
-CloudWaitress supports the COVID-19 Discount for Dine-In orders with the following settings;
+O-In supports the COVID-19 Discount for Dine-In orders with the following settings;
 
-![Go to Settings &amp;gt; System &amp;gt; Promo Codes &amp;gt; Create Promo Code](../../.gitbook/assets/covid0.png)
+![Go to Settings \&gt; System \&gt; Promo Codes \&gt; Create Promo Code](../../.gitbook/assets/covid0.png)
 
 ### **Labels**
 
@@ -63,11 +61,10 @@ You can now save the promotion to make it live.
 
 ### How to disable promotion
 
-Turning off the COVID-19 promotion is very simple.  Simply open the promotion, check the disable promotion setting.  Alternatively you can delete the promotion from the promotions menu \(Settings &gt; System &gt; Promo Codes &gt; Delete\) by hitting the trash can button on the right-hand side of the promotion in question.
+Turning off the COVID-19 promotion is very simple. Simply open the promotion, check the disable promotion setting. Alternatively you can delete the promotion from the promotions menu (Settings > System > Promo Codes > Delete) by hitting the trash can button on the right-hand side of the promotion in question.
 
 {% hint style="warning" %}
-**Limitations** 
+**Limitations**
 
-The COVID-19 discount will only be applied once per order.  In order to obtain a discount for multiple people, each person should order from their own device.
+The COVID-19 discount will only be applied once per order. In order to obtain a discount for multiple people, each person should order from their own device.
 {% endhint %}
-
