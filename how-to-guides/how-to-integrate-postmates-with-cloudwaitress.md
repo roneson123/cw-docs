@@ -57,7 +57,7 @@ Post mates will show during the checkout;
 
 Postmates deliveries will show on the dashboard with the Postmates logo;
 
-![Postmates logo shows in the CloudWaitress order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
+![Postmates logo shows in the O-in order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
 {% endtab %}
 {% endtabs %}
 
