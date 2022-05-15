@@ -1,11 +1,8 @@
 ---
-description: >-
-  For August 2020, the UK government have released a discount scheme for
-  restaurants called 'Eat Out to Help Out".  This shows how to set-up for your
-  restaurant.
+description: This shows how to set-up promocode/ Discount for your restaurant.
 ---
 
-# COVID-19 Discount for United Kingdom
+# Add Promocode
 
 ## Example
 

@@ -33,4 +33,4 @@
   * [Customer Accounts](platform-information/customer-accounts.md)
   * [Special Features](platform-information/special-features/README.md)
     * [Make Service Pop-Up Required](platform-information/special-features/make-service-pop-up-required.md)
-    * [COVID-19 Discount for United Kingdom](platform-information/special-features/covid-19-discount-for-united-kingdom.md)
+    * [Add Promocode](platform-information/special-features/covid-19-discount-for-united-kingdom.md)
