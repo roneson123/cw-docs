@@ -10,7 +10,7 @@ description: >-
 ## Features
 
 * Easy-to-use dashboard
-* &#x20;orders automatically added
+* orders automatically added
 * Real-time tracking of drivers for restaurant and customer
 * Mobile app for drivers
 * Customer email notifications
@@ -20,9 +20,7 @@ description: >-
 
 ## Set-up Shipday Integration
 
-{% embed url="https://youtu.be/ZRzKbq3M-co" %}
-
-1. Open your  account - [admin.cloudwaitress.com](https://admin.cloudwaitress.com).
+1. Open your account - admin.o-in.co
 2. Select 'Manage' for the Restaurant you would like to integrate.
 3. Go to 'Settings' > 'Integrations' > Click on the 'Shipday Logo'.
 4. Paste the Shipday API key from your Shipday.com account.

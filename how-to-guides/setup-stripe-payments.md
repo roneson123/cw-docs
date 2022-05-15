@@ -12,35 +12,35 @@ You can accept credit cards online using [Stripe](https://stripe.com/). It is cu
 
 When Stripe is enabled, customers can choose from the online payment option when checking out. If a customer selects "Credit Card", the credit card field will drop-down below.
 
-![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_16wk7ks.png)
+![Stripe payment example](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_16wk7ks.png)
 
 ## Connecting Your Stripe Account
 
 1. Create an account on the Stripe website if you do not already have one
-2. Ensure you are viewing your live account and not your test account 
-3. Login to your account dashboard. On the left navigation, go to "Developers &gt; API Keys"
-4. Next, open up your restaurant dashboard and navigate to "Settings &gt; Payments &gt; Stripe"
+2. Ensure you are viewing your live account and not your test account
+3. Login to your account dashboard. On the left navigation, go to "Developers > API Keys"
+4. Next, open up your restaurant dashboard and navigate to "Settings > Payments > Stripe"
 5. Enable Stripe payments using the "Enable" switch
 6. Copy the "Publishable Key" and "Secret Key" from the Stripe dashboard into the restaurant dashboard
 7. Set your payment currency in the restaurant dashboard and save the settings
 
-![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_4cpfy8.png)
+![Stripe API keys](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_4cpfy8.png)
 
 ## Testing Payments
 
 If you would like to do a test payment, copy your test API keys from Stripe. You can do this by toggling the "Viewing test data" switch.
 
-![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bjx53a.png)
+![Stripe test data](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image\_1bjx53a.png)
 
 Once this is done, you can use the credit card number "4242 4242 4242 4242" with any valid expiry, CVC and zip code. This card will allow you to make a dummy payment.
 
 ## Validating Your Stripe Account
 
-To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Pleae, ensure you have completed all their required validations.
+To withdraw online payments to your bank, you will need to ensure your Stripe account is fully valid. Please, ensure you have completed all their required validations.
 
 ## Stripe Fee's
 
-We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your CloudWaitress account to process charges on your behalf with the money going straight to your account.
+We are not responsible for your Stripe account management or fees. Your Stripe account is simply linked to your O-In account to process charges on your behalf with the money going straight to your account.
 
 As such it is important you are aware of Stripe's payment processing fees. You can read more here [https://stripe.com/pricing](https://stripe.com/pricing). Please also take the time to read their FAQ and support to clear up any issues you may have.
 
@@ -51,4 +51,3 @@ Stripe enables you to accept different currencies online depending on the countr
 ## Issuing Refunds
 
 Stripe refunds can be processed from your order management dashboard or the Stripe dashboard. In the order management dashboard, the refund payment option is available in the order details popup. Simply press the action select bar and choose "Refund Stripe Payment".
-

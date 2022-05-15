@@ -77,7 +77,7 @@ Once you enter in your restaurant information, you will be redirected to the Pos
 IMPORTANT - The following settings must be applied for the Postmates integration to work.
 {% endhint %}
 
-**In Cloudwaitress the following settings must be applied;**
+**In O-In the following settings must be applied;**
 
 1. Generate and add the webhook to Postmates (details above)
 2. Add the Postmates keys into restaurant dashboard. Settings > Integrations > Postmates.
