@@ -32,8 +32,8 @@ You can find the menu id by following the instructions below.
 
 Log in to your restaurant store. Select the Menus section using the knife and fork button on the left-hand menu. Then press the 'Edit' button on the menu that you would like to directly link to.
 
-![](../.gitbook/assets/meniidstep1.png)
+![](<../.gitbook/assets/Screenshot 2022-07-19 at 2.22.37 PM.png>)
 
 The menu id is displayed at the top of the page. Use this code to directly link to your menu as per the above instructions.
 
-![](<../.gitbook/assets/menuidstep2 (2).png>)
+![](<../.gitbook/assets/Screenshot 2022-07-19 at 2.23.10 PM.png>)
