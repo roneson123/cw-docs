@@ -60,6 +60,6 @@ Once you have a custom domain, visit [https://search.google.com/search-console](
 
 We have created a few helpful guides for restaurant marketing on our blog. We suggest reading them to get more ideas and strategies.
 
-* [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
+* [Online Marketing - Google My Business](https://o-in.co/blog/f/online-restaurant-marketing-%E2%80%93-google-my-business)
 * [Online Marketing - Facebook](https://o-in.co/blog/f/online-restaurant-marketing-%E2%80%93-facebook-advertising?blogcategory=Marketing)
 * [Creative Marketing Ideas For Restaurants](https://o-in.co/blog/f/creative-marketing-ideas-to-grow-your-restaurant)
