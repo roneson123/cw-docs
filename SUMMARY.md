@@ -18,6 +18,7 @@
   * [Printing - Add a printer to Windows](how-to-guides/printing-add-a-printer-to-windows.md)
   * [Setup Split Printing](how-to-guides/setup-split-printing.md)
   * [Setup Ipay88](how-to-guides/setup-ipay88.md)
+  * [Setup Gkash](how-to-guides/setup-gkash.md)
   * [Setup Stripe Payments](how-to-guides/setup-stripe-payments.md)
   * [Setup PayPal Payments](how-to-guides/setup-paypal-payments.md)
   * [Setup Apple Pay with Checkout.com](how-to-guides/setup-apple-pay-with-checkout.com.md)

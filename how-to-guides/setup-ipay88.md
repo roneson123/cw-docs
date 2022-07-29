@@ -1,7 +1,8 @@
 ---
 description: >-
-  Please note that you are required to provide all the necessary company's
-  documents to Ipay88 payment gateway for onboarding process
+  Ipay88 is a licensed Payment Gateway in ASEAN .Please note that you are
+  required to provide all the necessary company's documents to Ipay88 payment
+  gateway for onboarding process
 cover: ../.gitbook/assets/35e48991d7eefa2742ab43acf82b994d6c48dbb7 (2).ico
 coverY: 0
 ---
