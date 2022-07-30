@@ -138,4 +138,14 @@ We highly recommend that you use the website [https://www.birme.net](https://www
 
 Use our designer [Product Guide](https://www.canva.com/design/DAE-3vXKwqA/AuPB\_3hu9b23aiChxKpL3w/view?utm\_content=DAE-3vXKwqA\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=publishsharelink\&mode=preview) in [Canva](https://www.canva.com/)
 
+## Condition Fee / Take away Fee
+
+{% embed url="https://youtu.be/QwbtuCWCFbk" %}
+
+there are 3 ways to do configure this in your setting
+
+1. Adding condition fee
+2. Different menu Price for ( Pick up & Delivery)
+3. Option set on Pick up and delivery menu
+
 ## &#x20;
