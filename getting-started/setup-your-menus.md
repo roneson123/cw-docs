@@ -101,6 +101,10 @@ There are 3 statuses available for a dish. They are:
 
 In the admin dashboard, you can edit the status of a dish by checking the tickbox on the left of it. Then select the desired status from the popup menu.
 
+## Rearrange and Edit Price
+
+{% embed url="https://youtu.be/C1xyv4r0R1Q" %}
+
 ## Option Sets
 
 All **dish customization is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
