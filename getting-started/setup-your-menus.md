@@ -137,7 +137,7 @@ Native Aspect Ratio of Products Image \
 ### **Dish images to large**
 
 We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.\
-****\
+\
 **Product Template**
 
 Use our designer [Product Guide](https://www.canva.com/design/DAE-3vXKwqA/AuPB\_3hu9b23aiChxKpL3w/view?utm\_content=DAE-3vXKwqA\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=publishsharelink\&mode=preview) in [Canva](https://www.canva.com/)
