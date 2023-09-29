@@ -57,7 +57,7 @@ Post mates will show during the checkout;
 
 Postmates deliveries will show on the dashboard with the Postmates logo;
 
-![Postmates logo shows in the O-in order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
+![Postmates logo shows in the CloudWaitress order dashboard](../.gitbook/assets/postmates-dashboard-ui.png)
 {% endtab %}
 {% endtabs %}
 
@@ -77,7 +77,7 @@ Once you enter in your restaurant information, you will be redirected to the Pos
 IMPORTANT - The following settings must be applied for the Postmates integration to work.
 {% endhint %}
 
-**In O-In the following settings must be applied;**
+**In Cloudwaitress the following settings must be applied;**
 
 1. Generate and add the webhook to Postmates (details above)
 2. Add the Postmates keys into restaurant dashboard. Settings > Integrations > Postmates.

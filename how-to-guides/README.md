@@ -1,7 +1,7 @@
 ---
 description: >-
   This section will take you through how to set-up specific features within
-  O-In.
+  CloudWaitress.
 ---
 
 # How to Guides

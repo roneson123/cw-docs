@@ -9,7 +9,7 @@ description: Lean how to use menu_id to create a direct link to a specific menu.
 Creating a direct link to your menu is a fairly straight forward process. The below example links to a specific menu within the demo store.
 
 ```
-https://demoforoder.o-in.co/?menu_id=awOli_w3E
+https://systemsite.octopusdelivery.com/?menu_id=awOli_w3E
 ```
 
 Replace the above url with your restaurant url;
@@ -32,8 +32,8 @@ You can find the menu id by following the instructions below.
 
 Log in to your restaurant store. Select the Menus section using the knife and fork button on the left-hand menu. Then press the 'Edit' button on the menu that you would like to directly link to.
 
-![](<../.gitbook/assets/Screenshot 2022-07-19 at 2.22.37 PM.png>)
+![](../.gitbook/assets/meniidstep1.png)
 
 The menu id is displayed at the top of the page. Use this code to directly link to your menu as per the above instructions.
 
-![](<../.gitbook/assets/Screenshot 2022-07-19 at 2.23.10 PM.png>)
+![](<../.gitbook/assets/menuidstep2 (2).png>)

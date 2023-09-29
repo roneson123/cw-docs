@@ -7,6 +7,8 @@ description: >-
 
 # Setup Your Menus
 
+{% embed url="https://youtu.be/Nyyr2vwB1Io" caption="Menu setup video tutorial" %}
+
 ## Setup Process
 
 Menus are organized in a tree structure. Menus contain categories and categories contain dishes. The general setup process is as follows.
@@ -23,7 +25,7 @@ You will likely only need one menu. Multiple menus are useful if certain items a
 
 ## Example Menu Structure
 
-```
+```text
 - Menu: Main menu
 -- Category: Pizzas
 ---- Dish: Ham & Cheese
@@ -42,7 +44,7 @@ You will likely only need one menu. Multiple menus are useful if certain items a
 
 These represent your actual real-life menus. Many stores have just one main menu that's always available. Others may have a lunch & dinner menu or a pickup only menu. You will need at least one menu for your online store to work.
 
-Menu availability can depend on certain conditions such as order types (pickups or deliveries), order timings (e.g. pre-order only). They can also be restricted to certain days and timings.
+Menu availability can depend on certain conditions such as order types \(pickups or deliveries\), order timings \(e.g. pre-order only\). They can also be restricted to certain days and timings.
 
 {% hint style="info" %}
 If you only have one menu available, there is no need to place restrictions on it. You can restrict the system globally to your business rules and the menu will work according to that. Restricting a menu to certain conditions is only needed if you have multiple menus
@@ -101,10 +103,6 @@ There are 3 statuses available for a dish. They are:
 
 In the admin dashboard, you can edit the status of a dish by checking the tickbox on the left of it. Then select the desired status from the popup menu.
 
-## Rearrange and Edit Price
-
-{% embed url="https://youtu.be/C1xyv4r0R1Q" %}
-
 ## Option Sets
 
 All **dish customization is done using option sets**. Option sets are a configurable set of options that can be assigned to any number of dishes. With option sets, you are able to create requirements such as:
@@ -129,27 +127,9 @@ Tags allow you to highly particular attributes about a dish with a fully customi
 
 ### **No menu or categories showing under the store**
 
-For your menu to display in your online store, make sure to add at least one category and one dish to it.\
-\
-Native Aspect Ratio of Products Image \
-<img src="../.gitbook/assets/Screenshot 2022-04-25 at 2.57.17 PM.png" alt="" data-size="original">
+For your menu to display in your online store, make sure to add at least one category and one dish to it.
 
 ### **Dish images to large**
 
-We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.\
-\
-**Product Template**
+We highly recommend that you use the website [https://www.birme.net](https://www.birme.net) or [https://tinypng.com/](https://tinypng.com/) to optimize all your images. Given that the maximum image width is only around 600 pixels, it's best to make sure all your images are no wider than that. This is going to help significantly with your page load time especially for mobile customers.
 
-Use our designer [Product Guide](https://www.canva.com/design/DAE-3vXKwqA/AuPB\_3hu9b23aiChxKpL3w/view?utm\_content=DAE-3vXKwqA\&utm\_campaign=designshare\&utm\_medium=link\&utm\_source=publishsharelink\&mode=preview) in [Canva](https://www.canva.com/)
-
-## Condition Fee / Take away Fee
-
-{% embed url="https://youtu.be/QwbtuCWCFbk" %}
-
-there are 3 ways to do configure this in your setting
-
-1. Adding condition fee
-2. Different menu Price for ( Pick up & Delivery)
-3. Option set on Pick up and delivery menu
-
-## &#x20;

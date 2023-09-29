@@ -28,7 +28,7 @@ You can consider paying for Facebook or Google ads. Both of these are avenues to
 
 ## Create A Google Places Listing
 
-A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com/business/](https://www.google.com/business/) to create or manage your listing.
+A Google places listing will allow local customers to find you far easier as its focused on your locality. This means you are more likely to rank high if the person searching for you is near your store. Follow this link [https://www.google.com.au/business/](https://www.google.com.au/business/) to create or manage your listing.
 
 Do not forget to add a "Placing an order" link to your places listing. See the following article on how this can be done [https://support.google.com/business/answer/6218037?hl=en](https://support.google.com/business/answer/6218037?hl=en)
 
@@ -60,6 +60,6 @@ Once you have a custom domain, visit [https://search.google.com/search-console](
 
 We have created a few helpful guides for restaurant marketing on our blog. We suggest reading them to get more ideas and strategies.
 
-* [Online Marketing - Google My Business](https://o-in.co/blog/f/online-restaurant-marketing-%E2%80%93-google-my-business)
-* [Online Marketing - Facebook](https://o-in.co/blog/f/online-restaurant-marketing-%E2%80%93-facebook-advertising?blogcategory=Marketing)
-* [Creative Marketing Ideas For Restaurants](https://o-in.co/blog/f/creative-marketing-ideas-to-grow-your-restaurant)
+* [Online Marketing - Google My Business](https://www.cloudwaitress.com/blog/online-restaurant-marketing-google-my-business)
+* [Online Marketing - Facebook](https://www.cloudwaitress.com/blog/online-restaurant-marketing-facebook-advertising)
+* [Creative Marketing Ideas For Restaurants](https://www.cloudwaitress.com/blog/creative-marketing-ideas-restaurants)
